@@ -37,7 +37,7 @@ public class Book {
 	private String unitPrice;
 	
 	@Column(name="image_url")
-	private String imgUrl;
+	private String imageUrl;
 	
 		private String active;
 	
